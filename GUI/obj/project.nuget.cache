@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L75opc87HZ1QvJUr3ZVTgjMd0QCQLN0BVp3sD9uNvvjqMzOLL81PB+E9aWwk8r08SmvqdoV7dPZmZNv5oD1asA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danilo\\source\\repos\\DuasCamadas\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

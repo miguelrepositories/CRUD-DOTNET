@@ -1,0 +1,2 @@
+# CRUD-DAL-ADONET
+Esta aplicação foi desenvolvida para a disciplina de Desenvolvimento e Integração de Sistemas Distribuídos do curso tecnólogo em ADS. Trata-se basicamente de um projeto em duas camadas, utilizando o recurso da plataforma .NET, Windows Forms, para representar uma aplicação de Cadastro Internacional de Doenças (CID). Utilizando a tecnologia ADO.NET para conexão com o Banco de Dados PostgreSQL.
